@@ -183,3 +183,4 @@ nodeData(g1, n=c("a", "b"), attr="weight")
 #g2 <- as(g1, "graphNEL")
 #edgeWeights(g2)
 ```
+ 

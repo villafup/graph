@@ -37,4 +37,4 @@ LazyLoad: yes
 Packaged: 2012-04-28 03:51:46 UTC; biocbuild
 biocViews: GraphAndNetwork
 RoxygenNote: 7.1.1
-VignetteBuilder: knitr
+VignetteBuilder: knitr 
